@@ -1,0 +1,14 @@
+﻿Industrial ,工業型機器人(工廠、農業、物流、倉儲、軍事)
+Service,服務型機器人(醫療、教育、專業型、餐廳、家用型)
+Describe,機器人名字
+Brand,廠牌
+Use,使用場景
+Robot Subtype,Industrual、Service的子類
+Technology Category,核心技術
+Medical,醫療
+Agricultural,農業
+Logistics and warehousing,物流或倉儲
+Restaurant,餐廳
+Housework,家用
+Military,軍事
+Locomotion,移動方式
